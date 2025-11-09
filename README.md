@@ -123,3 +123,22 @@ Not sure you needed the exclamation point there, but we like your enthusiasm.
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/adobe/brackets/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 Maintained by Kapil Bisht for learning and contribution purposes.
+---
+
+## Getting Started
+
+To run Brackets locally:
+
+1. Clone the repository:
+2. Navigate into the project folder:
+3. Open `src/index.html` in your browser or use Live Server in VS Code.
+
+## Contributing Tips
+
+- Always create a new branch for your changes.
+- Keep your pull requests small and focused.
+- If you're unsure, open an issue and ask questions—maintainers are usually happy to help!
+
+## Contributors
+
+- [Kapil Bisht](https://github.com/kapilbisht-web) – First-time contributor, updated README and setup instructions.
